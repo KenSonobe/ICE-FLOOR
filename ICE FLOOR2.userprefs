@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A75A15BE-D37A-8158-9DEC-0F44560A695C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/IceFloorMain.cs">
+    <Files>
+      <File FileName="Assets/Scripts/IceFloorMain.cs" Line="48" Column="39" />
+      <File FileName="Assets/Scripts/IceFloorStart.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/IceFloorGoal.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ICE_220FLOOR2 PreferredExecutionTarget="Unity.Editor" />
+</Properties>
